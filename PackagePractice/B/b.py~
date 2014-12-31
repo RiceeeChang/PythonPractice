@@ -1,0 +1,5 @@
+import os
+os.path.append('../')
+from A.a import number
+
+print(number)

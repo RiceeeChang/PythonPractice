@@ -1,0 +1,14 @@
+#--------------------------------------------------------------------
+# 
+# SqlParser.py  a small data base command parser
+#
+#
+#
+#--------------------------------------------------------------------
+
+
+import argparse
+
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument()
+parser.add_argument
